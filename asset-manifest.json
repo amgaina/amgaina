@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/amgaina/static/css/main.c2dcb7b2.css",
+    "main.js": "/amgaina/static/js/main.a08f3a7b.js",
+    "static/media/Abhishek Amgain.jpeg": "/amgaina/static/media/Abhishek Amgain.58f2f002e6b831bee609.jpeg",
+    "static/media/meme-generator.png": "/amgaina/static/media/meme-generator.577f10cba8933e4f890b.png",
+    "static/media/front.jpeg": "/amgaina/static/media/front.30d0fbad0bb87318eb8b.jpeg",
+    "static/media/mapit.png": "/amgaina/static/media/mapit.555458c019e7656b7e46.png",
+    "static/media/other.jpeg": "/amgaina/static/media/other.5d1552930a351177d98b.jpeg",
+    "static/media/chrome.png": "/amgaina/static/media/chrome.c33ee35b0f124f2b3009.png",
+    "static/media/github.gif": "/amgaina/static/media/github.2f3eb7a07dd668b3fc91.gif",
+    "static/media/instagram.png": "/amgaina/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/amgaina/index.html",
+    "main.c2dcb7b2.css.map": "/amgaina/static/css/main.c2dcb7b2.css.map",
+    "main.a08f3a7b.js.map": "/amgaina/static/js/main.a08f3a7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2dcb7b2.css",
+    "static/js/main.a08f3a7b.js"
+  ]
+}
