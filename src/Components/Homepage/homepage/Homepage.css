@@ -1,0 +1,17 @@
+
+body {
+    background-image: linear-gradient(to right, rgb(173, 160, 160), rgb(207, 194, 194)); 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  @keyframes colorChange {
+    0% { color: yellow; } /* Starting color */
+    50% { color: blue; } /* Midway color */
+    100% { color: yellow; } /* Ending color (same as starting color) */
+  }
+  
+  /* Apply the animation to an element with the class 'animated-text' */
+  .name {
+    animation: colorChange 3s linear infinite; /* Name, duration, timing function, iteration count */
+  }

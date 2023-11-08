@@ -1,0 +1,15 @@
+
+#skills .row{
+    justify-content: center;
+}
+#skills .h1{
+    margin: auto;
+    text-decoration: underline;
+    text-align: center;
+    color:red;
+}
+@media (min-width: 800px) {
+    #skills #skills2{
+        margin-left: 300px;
+     } 
+}

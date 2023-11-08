@@ -1,0 +1,12 @@
+#projects h1{
+    text-decoration: underline;
+    color: red;
+}
+
+@media(min-width: 768px){
+#projects .container{
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+} 
+}

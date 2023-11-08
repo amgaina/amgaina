@@ -1,0 +1,36 @@
+@media (min-width: 992px) {
+    .navbar-nav .nav-link {
+        margin-right: 10px;
+        font-size: large;
+        color: Black;
+      }
+    .navbar-nav .nav-link:hover {
+        color: brown;
+        text-decoration: underline;
+      }
+      #nav-bar{
+        background-image: linear-gradient(to right, rgb(173, 160, 160), rgb(207, 194, 194));
+        height: 80px;
+        position: fixed;
+        top: 0;
+        width: 100%;
+      }
+
+    }
+    #nav-bar{
+        background-image: linear-gradient(to right, rgb(217, 202, 202), rgb(225, 197, 197));
+      }
+      .navbar-nav .nav-link {
+        color: Black;
+      }
+      .navbar-nav .nav-link:hover {
+        color: brown;
+        text-decoration: underline;
+      }
+      h3{
+        color: black;
+      }
+
+      #nav-bar .nav-item:hover{
+        cursor: pointer;
+      }
