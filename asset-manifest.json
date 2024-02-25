@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amgaina/static/css/main.e98e995c.css",
-    "main.js": "/amgaina/static/js/main.fe9b6948.js",
+    "main.css": "/amgaina/static/css/main.72e293ce.css",
+    "main.js": "/amgaina/static/js/main.f5937837.js",
     "static/media/Abhishek Amgain.jpeg": "/amgaina/static/media/Abhishek Amgain.58f2f002e6b831bee609.jpeg",
     "static/media/portfolio.png": "/amgaina/static/media/portfolio.379f3a21a782029b7025.png",
     "static/media/background-city.jpeg": "/amgaina/static/media/background-city.16695b1b7e6470c2468d.jpeg",
@@ -9,7 +9,6 @@
     "static/media/meme_generator.png": "/amgaina/static/media/meme_generator.b458fef5f66cae615a70.png",
     "static/media/chrome_extension.png": "/amgaina/static/media/chrome_extension.0149d5be7e636b04a363.png",
     "static/media/subnetting.png": "/amgaina/static/media/subnetting.c2ac5992aadb64ac357d.png",
-    "static/media/world_map.png": "/amgaina/static/media/world_map.0abc16ee9d44f712783f.png",
     "static/media/instagram_logo.png": "/amgaina/static/media/instagram_logo.e905e80e3d57cc2b32c7.png",
     "static/media/ulm_logo.png": "/amgaina/static/media/ulm_logo.8bf3e71a82ff039b96e2.png",
     "static/media/bootstrap.png": "/amgaina/static/media/bootstrap.376c3f5a4a12bf9bada9.png",
@@ -29,11 +28,11 @@
     "static/media/oxford_logo.png": "/amgaina/static/media/oxford_logo.19404a30a3c333cea657.png",
     "static/media/react.png": "/amgaina/static/media/react.ccb97f287d4d51b10a6b.png",
     "index.html": "/amgaina/index.html",
-    "main.e98e995c.css.map": "/amgaina/static/css/main.e98e995c.css.map",
-    "main.fe9b6948.js.map": "/amgaina/static/js/main.fe9b6948.js.map"
+    "main.72e293ce.css.map": "/amgaina/static/css/main.72e293ce.css.map",
+    "main.f5937837.js.map": "/amgaina/static/js/main.f5937837.js.map"
   },
   "entrypoints": [
-    "static/css/main.e98e995c.css",
-    "static/js/main.fe9b6948.js"
+    "static/css/main.72e293ce.css",
+    "static/js/main.f5937837.js"
   ]
 }
