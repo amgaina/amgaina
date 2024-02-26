@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amgaina/static/css/main.28b83f0a.css",
-    "main.js": "/amgaina/static/js/main.b8a23f37.js",
+    "main.css": "/amgaina/static/css/main.e898d015.css",
+    "main.js": "/amgaina/static/js/main.c6363a03.js",
     "static/media/Abhishek Amgain.jpeg": "/amgaina/static/media/Abhishek Amgain.58f2f002e6b831bee609.jpeg",
     "static/media/portfolio.png": "/amgaina/static/media/portfolio.379f3a21a782029b7025.png",
     "static/media/background-city.jpeg": "/amgaina/static/media/background-city.16695b1b7e6470c2468d.jpeg",
@@ -9,12 +9,12 @@
     "static/media/meme_generator.png": "/amgaina/static/media/meme_generator.b458fef5f66cae615a70.png",
     "static/media/chrome_extension.png": "/amgaina/static/media/chrome_extension.0149d5be7e636b04a363.png",
     "static/media/subnetting.png": "/amgaina/static/media/subnetting.c2ac5992aadb64ac357d.png",
-    "static/media/world_map.png": "/amgaina/static/media/world_map.0abc16ee9d44f712783f.png",
     "static/media/instagram_logo.png": "/amgaina/static/media/instagram_logo.e905e80e3d57cc2b32c7.png",
     "static/media/ulm_logo.png": "/amgaina/static/media/ulm_logo.8bf3e71a82ff039b96e2.png",
     "static/media/bootstrap.png": "/amgaina/static/media/bootstrap.376c3f5a4a12bf9bada9.png",
     "static/media/abhishek.jpeg": "/amgaina/static/media/abhishek.f5dcea6d22510d51649d.jpeg",
     "static/media/abhishek amgain.pdf": "/amgaina/static/media/abhishek amgain.329dd6fb652f075e38c6.pdf",
+    "static/media/world_map.png": "/amgaina/static/media/world_map.26780269f804f143c46c.png",
     "static/media/trio.png": "/amgaina/static/media/trio.45a6ae8e4e483347ef85.png",
     "static/media/java.png": "/amgaina/static/media/java.bc7a3325b6ee01ddcab8.png",
     "static/media/linkedin_logo.png": "/amgaina/static/media/linkedin_logo.66ffd29ac1bb3de67249.png",
@@ -29,11 +29,11 @@
     "static/media/oxford_logo.png": "/amgaina/static/media/oxford_logo.19404a30a3c333cea657.png",
     "static/media/react.png": "/amgaina/static/media/react.ccb97f287d4d51b10a6b.png",
     "index.html": "/amgaina/index.html",
-    "main.28b83f0a.css.map": "/amgaina/static/css/main.28b83f0a.css.map",
-    "main.b8a23f37.js.map": "/amgaina/static/js/main.b8a23f37.js.map"
+    "main.e898d015.css.map": "/amgaina/static/css/main.e898d015.css.map",
+    "main.c6363a03.js.map": "/amgaina/static/js/main.c6363a03.js.map"
   },
   "entrypoints": [
-    "static/css/main.28b83f0a.css",
-    "static/js/main.b8a23f37.js"
+    "static/css/main.e898d015.css",
+    "static/js/main.c6363a03.js"
   ]
 }
