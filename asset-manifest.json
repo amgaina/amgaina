@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amgaina/static/css/main.ddffb0a3.css",
-    "main.js": "/amgaina/static/js/main.5613dbaf.js",
+    "main.css": "/amgaina/static/css/main.3b63e917.css",
+    "main.js": "/amgaina/static/js/main.a9cbf5e2.js",
     "static/media/Abhishek Amgain.jpeg": "/amgaina/static/media/Abhishek Amgain.58f2f002e6b831bee609.jpeg",
     "static/media/portfolio.png": "/amgaina/static/media/portfolio.379f3a21a782029b7025.png",
     "static/media/background-city.jpeg": "/amgaina/static/media/background-city.16695b1b7e6470c2468d.jpeg",
@@ -19,7 +19,7 @@
     "static/media/express.png": "/amgaina/static/media/express.0041f539466ce4960fa5.png",
     "static/media/facebook_logo.png": "/amgaina/static/media/facebook_logo.790642551cd99bb66a7e.png",
     "static/media/black_jack.png": "/amgaina/static/media/black_jack.5a357b1b9ab5da9ffc89.png",
-    "static/media/Abhishek_logo.png": "/amgaina/static/media/Abhishek_logo.d42aec617807b718df71.png",
+    "static/media/Abhishek_logo.png": "/amgaina/static/media/Abhishek_logo.c4e70f3e87340ee3292a.png",
     "static/media/react-native.png": "/amgaina/static/media/react-native.d35bda72509a94f48272.png",
     "static/media/sql.png": "/amgaina/static/media/sql.c71302d5437efbaa206c.png",
     "static/media/slot_machine.png": "/amgaina/static/media/slot_machine.eb31c9b4a8dc0fc6f0f3.png",
@@ -27,11 +27,11 @@
     "static/media/oxford_logo.png": "/amgaina/static/media/oxford_logo.19404a30a3c333cea657.png",
     "static/media/react.png": "/amgaina/static/media/react.ccb97f287d4d51b10a6b.png",
     "index.html": "/amgaina/index.html",
-    "main.ddffb0a3.css.map": "/amgaina/static/css/main.ddffb0a3.css.map",
-    "main.5613dbaf.js.map": "/amgaina/static/js/main.5613dbaf.js.map"
+    "main.3b63e917.css.map": "/amgaina/static/css/main.3b63e917.css.map",
+    "main.a9cbf5e2.js.map": "/amgaina/static/js/main.a9cbf5e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddffb0a3.css",
-    "static/js/main.5613dbaf.js"
+    "static/css/main.3b63e917.css",
+    "static/js/main.a9cbf5e2.js"
   ]
 }
