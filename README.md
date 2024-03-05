@@ -8,4 +8,3 @@ I'm committed to continually learning and improving my skills.
 Feel free to explore my work, and if you have any feedback or want to collaborate on exciting projects, don't hesitate to reach out. Let's code together and build something amazing! 🚀
 The website is hosted live at [Abhishek Amgain] (www.amgaina.github.io/amgaina)
 
-This project is fully responsive.
