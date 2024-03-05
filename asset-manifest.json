@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amgaina/static/css/main.776be9b2.css",
-    "main.js": "/amgaina/static/js/main.96c7966d.js",
+    "main.js": "/amgaina/static/js/main.a3addd8d.js",
     "static/media/Abhishek Amgain.jpeg": "/amgaina/static/media/Abhishek Amgain.58f2f002e6b831bee609.jpeg",
     "static/media/portfolio.png": "/amgaina/static/media/portfolio.379f3a21a782029b7025.png",
     "static/media/background-city.jpeg": "/amgaina/static/media/background-city.16695b1b7e6470c2468d.jpeg",
@@ -14,26 +14,25 @@
     "static/media/ulm_logo.png": "/amgaina/static/media/ulm_logo.8bf3e71a82ff039b96e2.png",
     "static/media/bootstrap.png": "/amgaina/static/media/bootstrap.376c3f5a4a12bf9bada9.png",
     "static/media/abhishek.jpeg": "/amgaina/static/media/abhishek.f5dcea6d22510d51649d.jpeg",
-    "static/media/abhishek_amgain.pdf": "/amgaina/static/media/abhishek_amgain.329dd6fb652f075e38c6.pdf",
     "static/media/trio.png": "/amgaina/static/media/trio.45a6ae8e4e483347ef85.png",
     "static/media/java.png": "/amgaina/static/media/java.bc7a3325b6ee01ddcab8.png",
     "static/media/linkedin_logo.png": "/amgaina/static/media/linkedin_logo.66ffd29ac1bb3de67249.png",
     "static/media/express.png": "/amgaina/static/media/express.0041f539466ce4960fa5.png",
     "static/media/facebook_logo.png": "/amgaina/static/media/facebook_logo.790642551cd99bb66a7e.png",
     "static/media/black_jack.png": "/amgaina/static/media/black_jack.5a357b1b9ab5da9ffc89.png",
+    "static/media/Abhishek_logo.png": "/amgaina/static/media/Abhishek_logo.d42aec617807b718df71.png",
     "static/media/react-native.png": "/amgaina/static/media/react-native.d35bda72509a94f48272.png",
     "static/media/sql.png": "/amgaina/static/media/sql.c71302d5437efbaa206c.png",
-    "static/media/Abhishek_logo.png": "/amgaina/static/media/Abhishek_logo.5c4cf262ed1ce67e22d6.png",
     "static/media/slot_machine.png": "/amgaina/static/media/slot_machine.eb31c9b4a8dc0fc6f0f3.png",
     "static/media/css.png": "/amgaina/static/media/css.58dfbebae4a02001b50e.png",
     "static/media/oxford_logo.png": "/amgaina/static/media/oxford_logo.19404a30a3c333cea657.png",
     "static/media/react.png": "/amgaina/static/media/react.ccb97f287d4d51b10a6b.png",
     "index.html": "/amgaina/index.html",
     "main.776be9b2.css.map": "/amgaina/static/css/main.776be9b2.css.map",
-    "main.96c7966d.js.map": "/amgaina/static/js/main.96c7966d.js.map"
+    "main.a3addd8d.js.map": "/amgaina/static/js/main.a3addd8d.js.map"
   },
   "entrypoints": [
     "static/css/main.776be9b2.css",
-    "static/js/main.96c7966d.js"
+    "static/js/main.a3addd8d.js"
   ]
 }
