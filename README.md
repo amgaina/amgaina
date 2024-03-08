@@ -15,7 +15,7 @@ This project aims to build the portfolio of Abhishek using ReactJs. This project
 - **About**: Highlights my background.
 - **Contact Information**: Provide ways for visitors to get in touch with me.
 
-- ## Technologies Used
+## Technologies Used
 
 - **ReactJS**: Frontend framework for building user interfaces.
 - **HTML/CSS**: Structuring and styling the website.
