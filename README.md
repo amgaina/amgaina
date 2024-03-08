@@ -18,6 +18,7 @@ This project aims to build the portfolio of Abhishek using ReactJs. This project
 - **JavaScript**: Interactivity and functionality.
 - **React Router**: For managing navigation within the application.
 - **Bootstrap**: For responsive design and layout components.
+- **EmailJS**: Frontend framework for building user interfaces.
 - **FontAwesome**: For icons used throughout the website.
 
 ## Installation
