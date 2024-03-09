@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amgaina/static/css/main.11b41708.css",
-    "main.js": "/amgaina/static/js/main.11220e89.js",
+    "main.css": "/amgaina/static/css/main.21d92205.css",
+    "main.js": "/amgaina/static/js/main.b65c7910.js",
     "static/media/Abhishek Amgain.jpeg": "/amgaina/static/media/Abhishek Amgain.58f2f002e6b831bee609.jpeg",
     "static/media/portfolio.png": "/amgaina/static/media/portfolio.379f3a21a782029b7025.png",
     "static/media/background-city.jpeg": "/amgaina/static/media/background-city.16695b1b7e6470c2468d.jpeg",
@@ -26,11 +26,11 @@
     "static/media/oxford_logo.png": "/amgaina/static/media/oxford_logo.19404a30a3c333cea657.png",
     "static/media/react.png": "/amgaina/static/media/react.ccb97f287d4d51b10a6b.png",
     "index.html": "/amgaina/index.html",
-    "main.11b41708.css.map": "/amgaina/static/css/main.11b41708.css.map",
-    "main.11220e89.js.map": "/amgaina/static/js/main.11220e89.js.map"
+    "main.21d92205.css.map": "/amgaina/static/css/main.21d92205.css.map",
+    "main.b65c7910.js.map": "/amgaina/static/js/main.b65c7910.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b41708.css",
-    "static/js/main.11220e89.js"
+    "static/css/main.21d92205.css",
+    "static/js/main.b65c7910.js"
   ]
 }
