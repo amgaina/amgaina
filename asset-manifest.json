@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amgaina/static/css/main.c76e6c2d.css",
-    "main.js": "/amgaina/static/js/main.ab1f68b4.js",
+    "main.js": "/amgaina/static/js/main.6e28ef76.js",
     "static/media/Abhishek Amgain.jpeg": "/amgaina/static/media/Abhishek Amgain.58f2f002e6b831bee609.jpeg",
     "static/media/portfolio.png": "/amgaina/static/media/portfolio.379f3a21a782029b7025.png",
     "static/media/background-city.jpeg": "/amgaina/static/media/background-city.16695b1b7e6470c2468d.jpeg",
@@ -27,10 +27,10 @@
     "static/media/react.png": "/amgaina/static/media/react.ccb97f287d4d51b10a6b.png",
     "index.html": "/amgaina/index.html",
     "main.c76e6c2d.css.map": "/amgaina/static/css/main.c76e6c2d.css.map",
-    "main.ab1f68b4.js.map": "/amgaina/static/js/main.ab1f68b4.js.map"
+    "main.6e28ef76.js.map": "/amgaina/static/js/main.6e28ef76.js.map"
   },
   "entrypoints": [
     "static/css/main.c76e6c2d.css",
-    "static/js/main.ab1f68b4.js"
+    "static/js/main.6e28ef76.js"
   ]
 }
